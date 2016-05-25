@@ -1,6 +1,0 @@
-def print(name)
-  puts "* #{name} "
-end
-
-print("ID : 2013136136 ")
-print("name : 최형회")
