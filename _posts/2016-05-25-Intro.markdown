@@ -4,7 +4,7 @@ title:  "Intro"
 date:   2016-05-25 11:55:30 +0900
 categories: jekyll update
 ---
-ID : 2013136136
+ID : 2013136136\n
 Name : 최형회
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
