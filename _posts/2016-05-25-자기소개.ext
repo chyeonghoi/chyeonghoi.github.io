@@ -1,3 +1,1 @@
-* ID : 2013136136
-* 컴퓨터 공학부 2학년
-* 이름 : 최형회
+{% highlight ruby %} def print_hi(name) puts "Hi, #{name}" end print_hi('Tom')
