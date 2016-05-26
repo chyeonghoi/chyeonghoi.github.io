@@ -8,7 +8,7 @@ date:   2016-05-26 15:39:30 +0900
 
 http://blog.naver.com/jjy0501/220431661867
 
-
+(원본) http://www.gizmag.com/smart-window-selectively-block-light-heat/38593/
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
