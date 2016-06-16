@@ -3,7 +3,7 @@ layout: post
 title: 셤공부!!
 ---
 
-koeyh1210.github.io
+##koeyh1210.github.io
 
 # Linux 를 이용한 github 이용법
 
